@@ -1,16 +1,16 @@
-#xcode Noise
-build/*
-*.pbxuser
-*.mode2v3
-*.mode1v3
-*.xcworkspace
-xcuserdata
-
-# OSX Noise
+.repl_history
+build
+tags
+app/pixate_code.rb
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
 .DS_Store
-profile
+nbproject
+.redcar
+#*#
 *~
-*.lock
-*.DS_Store
-*.swp
-*.out
+*.sw[po]
+.eprj
+.sass-cache
+.idea
