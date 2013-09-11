@@ -56,10 +56,3 @@ There's also the Snapshot ( http://developer.apple.com/samplecode/Sample_Code/Ar
 For example, when we detect MacVim, we can likely know which file you have open, thus we can know what your working directory is, and even then we can know which git repository you are under, if any. If you're working on a git repo, you're probably "Coding" -- is this leisure or work though? Looks like you were working on Project X: that's the project Client Z is paying you hourly for, let's set policy.
 
 This all depends on the depth and quality of data that can be collected and the interface through which this policy-making is exposed.
-
-## Next steps...
-
-Setup MacBacon
-https://github.com/MacRuby/MacRuby/wiki/Testing-your-Objective-C-library
-
-Research MacBacon & Cucumber
